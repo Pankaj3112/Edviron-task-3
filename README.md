@@ -33,7 +33,7 @@ Above command will install everything through package.json
 
 Start the application using the following command:
 ```
-$ node server.js
+$ node index.js
 ```
 
 Open the application in your web browser by visiting the following URL:
