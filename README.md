@@ -18,7 +18,7 @@ This backend system provides following endpoints
 Use the package manager npm or yarn to install expressJs,mongoose.
 
 ```bash
-npm install expressjs
+npm install express
 
 ```
 
@@ -38,5 +38,5 @@ $ node index.js
 
 Open the application in your web browser by visiting the following URL:
 ```
-$ http://localhost:3000
+$ http://localhost:8000
 ```
